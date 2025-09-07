@@ -17,4 +17,22 @@ This project involves analyzing sales data using Pivot Tables in Excel  to ident
 
 + **Insights & KPIs** Derive at least 5 actionable insights, such as sales seasonality, top-performing products, high-potential regions, sales manager impact, and customer buying patterns.
   ***
+  **Data Source**
+  These data set was shared During Data analyst class to be used by students while doing assignments and projects
+  ***
+  **Tools used**
+  Microsoft Excel
+***
+**Key Questions**
+Using pivot table, analyse the attached data						
+1. Determine the Average Sales in each year by the state						
+2. Determine top 5 Suburb group from 2016 to 2017						
+3. Top 10 Average Sales by Category 2016 to 2018						
+4. Determine Top 10 best Selling Manager from 2015 to 2017						
+5. Determine Top 5 best Selling Days by the year						
+6. Determine the % of Sales by each Months						
+7. List atleast 5 insights you can draw from your analysis(KPI)						
+8. Give desirable recommendation(s)						
+
+
   
