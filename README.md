@@ -32,7 +32,8 @@ Using pivot table, analyse the attached data
 5. Determine Top 5 best Selling Days by the year						
 6. Determine the % of Sales by each Months						
 7. List atleast 5 insights you can draw from your analysis(KPI)						
-8. Give desirable recommendation(s)						
+8. Give desirable recommendation(s)
+    				
 
 
   
