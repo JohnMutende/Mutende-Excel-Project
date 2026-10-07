@@ -1,4 +1,4 @@
-# Mutende Excel Project
+# SALES TRENDS PROJECT
 **project overview**
 This project involves analyzing sales data using Pivot Tables in Excel  to identify trends, patterns, and key performance indicators (KPIs). The analysis focuses on multiple dimensions such as geography, product categories, managers, time periods, and sales performance.
 ***
